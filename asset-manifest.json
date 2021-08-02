@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/adminpage/static/css/main.fa5ab654.chunk.css",
+    "main.js": "/adminpage/static/js/main.8b31432a.chunk.js",
+    "main.js.map": "/adminpage/static/js/main.8b31432a.chunk.js.map",
+    "runtime-main.js": "/adminpage/static/js/runtime-main.29db0426.js",
+    "runtime-main.js.map": "/adminpage/static/js/runtime-main.29db0426.js.map",
+    "static/css/2.c90e1183.chunk.css": "/adminpage/static/css/2.c90e1183.chunk.css",
+    "static/js/2.7db5d503.chunk.js": "/adminpage/static/js/2.7db5d503.chunk.js",
+    "static/js/2.7db5d503.chunk.js.map": "/adminpage/static/js/2.7db5d503.chunk.js.map",
+    "index.html": "/adminpage/index.html",
+    "static/css/2.c90e1183.chunk.css.map": "/adminpage/static/css/2.c90e1183.chunk.css.map",
+    "static/css/main.fa5ab654.chunk.css.map": "/adminpage/static/css/main.fa5ab654.chunk.css.map",
+    "static/js/2.7db5d503.chunk.js.LICENSE.txt": "/adminpage/static/js/2.7db5d503.chunk.js.LICENSE.txt",
+    "static/media/alert.b3bc44c8.mp3": "/adminpage/static/media/alert.b3bc44c8.mp3",
+    "static/media/style.css": "/adminpage/static/media/logo1.bab9d4fa.png",
+    "static/media/style_attendence.scss": "/adminpage/static/media/preloader.1e1b1420.gif",
+    "static/media/style_acc.scss": "/adminpage/static/media/profile.c9983aa8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29db0426.js",
+    "static/css/2.c90e1183.chunk.css",
+    "static/js/2.7db5d503.chunk.js",
+    "static/css/main.fa5ab654.chunk.css",
+    "static/js/main.8b31432a.chunk.js"
+  ]
+}
